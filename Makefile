@@ -9,7 +9,7 @@ CXX		=	g++
 
 CXXFLAGS	+=	-Wall -Wextra -pedantic -std=c++17 -fPIC -I includes -Wno-unused -Wno-return-type -g3
 
-LDFLAGS		=	-ldl
+#LDFLAGS		=	-ldl
 
 #le binaire
 
